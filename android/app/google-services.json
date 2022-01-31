@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "603029562389",
+    "project_id": "alena-ed5f1",
+    "storage_bucket": "alena-ed5f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603029562389:android:647dbe3351fef0bbc51a1c",
+        "android_client_info": {
+          "package_name": "com.outofthebox.alena"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603029562389-8dbf1u09rqe1brusfu6qd1dtp5j4gfgm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.outofthebox.alena",
+            "certificate_hash": "246c96a11cdb06a135e5c8f281e962ce5e6a69b4"
+          }
+        },
+        {
+          "client_id": "603029562389-1pscjdduad4l722g8se03jmt332pquu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBResSuinTXuOl1iTz7SWsnAXJahZogXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603029562389-1pscjdduad4l722g8se03jmt332pquu6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "603029562389-kskvcs4cmuqc5tnt9ere6irsr2f8c4qh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.outofthebox.alenaAdmin",
+                "app_store_id": "0000111"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603029562389:android:c18b65ac9a654135c51a1c",
+        "android_client_info": {
+          "package_name": "com.outofthebox.alena_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603029562389-1pscjdduad4l722g8se03jmt332pquu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBResSuinTXuOl1iTz7SWsnAXJahZogXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603029562389-1pscjdduad4l722g8se03jmt332pquu6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "603029562389-kskvcs4cmuqc5tnt9ere6irsr2f8c4qh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.outofthebox.alenaAdmin",
+                "app_store_id": "0000111"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
